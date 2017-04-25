@@ -5,8 +5,8 @@ const mapConfig = {
 };
 
 const creds = {
-  u:'vialactea\\usrgis' ,
-  p: "N3L4y5HZ"
+  u:'myuser' ,
+  p: "mypass"
 }
 
 export {mapConfig, creds};

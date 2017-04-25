@@ -53,7 +53,7 @@ class Main extends React.Component {
   }
 
   componentDidMount(){
-  creds
+
 
     factigisLoginVentaWeb(creds.u,creds.p,(cb)=>{
       //show everything.
